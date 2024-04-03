@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YfgqhWUTsebj2OCwfSIJNkA3TMog6jcidTKOWXz7vdrEOxbqSXDz4iQMIT3X9Fd3Cwovgi/eWiWY8nD0RDOnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valeria\\source\\repos\\Ffreyean\\Onion-SCMEJORAS\\OnionWebApi\\Nucleo\\Nucleo\\Nucleo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valeria\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

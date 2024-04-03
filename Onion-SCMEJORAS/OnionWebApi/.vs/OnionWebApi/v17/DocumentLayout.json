@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valeria\\source\\repos\\Ffreyean\\Onion-SCMEJORAS\\OnionWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC7103F-EF79-4153-A34C-02B1D895FBB6}|Nucleo\\Nucleo\\Nucleo.csproj|c:\\users\\valeria\\source\\repos\\ffreyean\\onion-scmejoras\\onionwebapi\\nucleo\\nucleo\\modelo\\clsfuncionarioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC7103F-EF79-4153-A34C-02B1D895FBB6}|Nucleo\\Nucleo\\Nucleo.csproj|solutionrelative:nucleo\\nucleo\\modelo\\clsfuncionarioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A449C5B9-3B8F-460E-8E31-BAA7A1A7B83A}|Infraestructura\\Acceso a Datos\\InfrastructuraDatos.csproj|c:\\users\\valeria\\source\\repos\\ffreyean\\onion-scmejoras\\onionwebapi\\infraestructura\\acceso a datos\\clsfuncionariosad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A449C5B9-3B8F-460E-8E31-BAA7A1A7B83A}|Infraestructura\\Acceso a Datos\\InfrastructuraDatos.csproj|solutionrelative:infraestructura\\acceso a datos\\clsfuncionariosad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsFuncionariosAD.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\Ffreyean\\Onion-SCMEJORAS\\OnionWebApi\\Infraestructura\\Acceso a Datos\\clsFuncionariosAD.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Acceso a Datos\\clsFuncionariosAD.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\Ffreyean\\Onion-SCMEJORAS\\OnionWebApi\\Infraestructura\\Acceso a Datos\\clsFuncionariosAD.cs",
+              "RelativeToolTip": "Infraestructura\\Acceso a Datos\\clsFuncionariosAD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:19:48.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsFuncionarioE.cs",
+              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\Ffreyean\\Onion-SCMEJORAS\\OnionWebApi\\Nucleo\\Nucleo\\Modelo\\clsFuncionarioE.cs",
+              "RelativeDocumentMoniker": "Nucleo\\Nucleo\\Modelo\\clsFuncionarioE.cs",
+              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\Ffreyean\\Onion-SCMEJORAS\\OnionWebApi\\Nucleo\\Nucleo\\Modelo\\clsFuncionarioE.cs",
+              "RelativeToolTip": "Nucleo\\Nucleo\\Modelo\\clsFuncionarioE.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:16:14.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
